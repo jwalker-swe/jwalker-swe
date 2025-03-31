@@ -15,7 +15,7 @@ With a background in **problem-solving and technical artistry**, I transitioned 
 ## 🛠️ Projects  
 🔵 **[PokéOrigins: Pokédex](https://pokedex-jalq.onrender.com/)** – A web app that fetches and displays Pokémon data using the PokéAPI.  
 
-⏳ **[Pom-Pom: Pomodoro Timer](https://github.com/jwalker-swe/pom-pom)** – A **web-based Pomodoro timer application** designed to enhance focus and productivity by breaking work into timed intervals with short breaks in between.  
+⏳ **[Pom-Pom: Pomodoro Timer](https://github.com/jwalker-swe/pom-pom)** – A web app designed to enhance focus and productivity through a technique that breaks work into timed intervals with short breaks in between, known as the pomodoro method.
 
 ✊ **[Ro-Sham-Bo](https://github.com/jwalker-swe/ro-sham-bo)** – A **simple Rock-Paper-Scissors game** built with JavaScript, allowing users to play against a computer opponent with randomized choices.  
 
