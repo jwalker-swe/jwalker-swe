@@ -7,7 +7,7 @@ With a background in **problem-solving and technical artistry**, I transitioned 
 
 ## 🔧 Tech Stack  
 - **Languages:** TypeScript, JavaScript (ES6+), HTML, CSS  
-- **Frameworks & Libraries:** React, Tailwind Css, Node.js, Express  
+- **Frameworks & Libraries:** React, Tailwind CSS, Node.js, Express  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Platforms:** Git, GitHub, Render, Netlify, Postman  
 - **Other Skills:** REST APIs, Async/Await, DOM Manipulation, Fetch API  
