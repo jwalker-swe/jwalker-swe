@@ -6,8 +6,8 @@ I'm a **Software Engineer** with a passion for **Full-Stack Web and App Developm
 With a background in **problem-solving and technical artistry**, I transitioned from VFX to software engineering to build **scalable, user-friendly applications**. I'm constantly refining my skills to create efficient, high-performance solutions.  
 
 ## 🔧 Tech Stack  
-- **Languages:** JavaScript (ES6+), HTML, CSS  
-- **Frameworks & Libraries:** React, Node.js, Express  
+- **Languages:** TypeScript, JavaScript (ES6+), HTML, CSS  
+- **Frameworks & Libraries:** React, Tailwind Css, Node.js, Express  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Platforms:** Git, GitHub, Render, Netlify, Postman  
 - **Other Skills:** REST APIs, Async/Await, DOM Manipulation, Fetch API  
