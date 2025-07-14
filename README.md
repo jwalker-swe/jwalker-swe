@@ -6,6 +6,8 @@ I'm just a guy who loves music, anime, and movies. In my past life, I even helpe
 
 Currently I've been working on building out Crate, a web application allowing users to track, rate, and share their music journeys. And yes I totally did get the idea from Letterboxd, but I figured, the great designer, Virgil Abloh's 3% rule made a lot of sense here.
 
+**[Crate](https://github.com/jwalker-swe/crate)**
+
 ## Other Projects
 **[PokéOrigins: Pokédex](https://pokedex-jalq.onrender.com/)** – A web app that fetches and displays Pokémon data using the PokéAPI. Made to help a friend quickly search up Pokémon data while filming a youtube series.
 
