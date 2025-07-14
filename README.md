@@ -7,7 +7,8 @@ I'm just a guy who loves music, anime, and movies...in my past life I even helpe
 Currently I've been working on building out Crate, a web application allowing users to track, rate, and share their music journeys. And yes I totally did get the idea from Letterboxd, but I figured the great designer, Virgil Abloh's 3% rule made a lot of sense.
 
 ## Other Projects
-**[PokéOrigins: Pokédex](https://pokedex-jalq.onrender.com/)** – A web app that fetches and displays Pokémon data using the PokéAPI.  
+**[PokéOrigins: Pokédex](https://pokedex-jalq.onrender.com/)** – A web app that fetches and displays Pokémon data using the PokéAPI.
+
 **[Pom-Pom: Pomodoro Timer](https://github.com/jwalker-swe/pom-pom)** – A web app designed to enhance focus and productivity through a technique that breaks work into timed intervals with short breaks in between, known as the pomodoro method.
 
 **[Ro-Sham-Bo](https://github.com/jwalker-swe/ro-sham-bo)** – A simple Rock-Paper-Scissors game built simply because I find myself making many decisions based on a coin toss, "Should we watch this movie or that movie?", "Should we grab this or that to eat?", "This game or that game?"...you get the point.
