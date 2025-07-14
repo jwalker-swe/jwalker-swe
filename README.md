@@ -16,4 +16,4 @@ Currently I've been working on building out **[Crate](https://github.com/jwalker
 **[Can I Pet That Dog?](https://github.com/jwalker-swe/pet-that-dog)** - Honestly I don't even know how to describe this one. Perfect for a good laugh though.
 
 ## Socials
-**[LinkedIn](https://www.linkedin.com/in/jwalkerfx)
+**[LinkedIn](https://www.linkedin.com/in/jwalkerfx)**
