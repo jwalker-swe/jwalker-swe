@@ -1,6 +1,6 @@
 # What's up lovely people! It's Jordan
 
-I'm just a guy who loves music, anime, and movies...in my past life I even helped blow things up in some of your favorite movies and tv shows. Now a days though you can find me writing code to you do that slightly annoying thing that only you notice a tiny bit faster.
+I'm just a guy who loves music, anime, and movies. In my past life, I even helped blow things up in some of your favorite movies and tv shows. Now a days though you can find me writing code to you do that slightly annoying thing that only you notice a tiny bit faster.
 
 ## Current Projects & Learning
 
