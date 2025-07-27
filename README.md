@@ -11,11 +11,5 @@ Currently I've been working on building out **[Crate](https://github.com/jwalker
 
 **[Pom-Pom: Pomodoro Timer](https://github.com/jwalker-swe/pom-pom)** – A web app designed to enhance focus and productivity through a technique that breaks work into timed intervals with short breaks in between, known as the pomodoro method.
 
-**[Ro-Sham-Bo](https://github.com/jwalker-swe/ro-sham-bo)** – A simple Rock-Paper-Scissors game built to learn about basic game logic, local storage, DOM manipulation, and simple state management
-
-**[Can I Pet That Dog?](https://github.com/jwalker-swe/pet-that-dog)** - Honestly I don't even know how to describe this one. Perfect for a good laugh though.
-
-**[Flip Coin](https://github.com/jwalker-swe/flip-coin)** - A coin toss application built simply because I find myself making many decisions based on a coin toss, "Should we watch this movie or that movie?", "Should we grab this or that to eat?", "This game or that game?"...you get the point.
-
 ## Socials
 **[LinkedIn](https://www.linkedin.com/in/jwalkerfx)**
