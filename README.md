@@ -1,6 +1,8 @@
-# What's up lovely people! It's Jordan
+# Hi, I’m Jordan
 
-I'm just a guy who loves music, anime, and movies. In my past life, I even helped blow things up in some of your favorite movies and tv shows. Now a days though you can find me writing code so you can do that slightly annoying thing that only you think about a tiny bit faster.
+a software engineer passionate about building impactful applications. I specialize in full-stack development with React, Node.js, and TypeScript, creating tools that solve real problems and improve user experiences.
+
+Before coding, I worked in visual effects on major films and TV shows, which taught me the value of creativity and attention to detail. Now, I channel that same passion into software development.
 
 ## Current Projects & Learning
 
