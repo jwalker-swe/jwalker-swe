@@ -1,6 +1,6 @@
 # Hi, I’m Jordan
 
-a software engineer passionate about building impactful applications. I specialize in full-stack development with React, Node.js, and TypeScript, creating tools that solve real problems and improve user experiences.
+A Software Engineer passionate about building impactful applications. I specialize in full-stack development with React, Node.js, and TypeScript, creating tools that solve real problems and improve user experiences.
 
 Before coding, I worked in visual effects on major films and TV shows, which taught me the value of creativity and attention to detail. Now, I channel that same passion into software development.
 
