@@ -11,7 +11,7 @@ Currently I've been working on building out **[Crate](https://github.com/jwalker
 ## Other Projects
 **[UWind Visualizer](https://github.com/jwalker-swe/UWindVisualizer)** - UWindVisualizer or Urban Wind Visualizer is a cli tool that simulates airflow through urban environments using flow fields and recreating airflow patterns like recirculation zones and vortex streets. The data's then rendered in the terminal and visualized with ASCII art. 
 
-**[PokéOrigins: Pokédex](https://pokedex-jalq.onrender.com/)** – A web app that fetches and displays Pokémon data using the PokéAPI. Made to help a friend quickly search up Pokémon data while filming a youtube series.
+**[PokéOrigins: Pokédex](https://github.com/jwalker-swe/pokedex)** – A web app that fetches and displays Pokémon data using the PokéAPI. Made to help a friend quickly search up Pokémon data while filming a youtube series.
 
 **[Pom-Pom: Pomodoro Timer](https://github.com/jwalker-swe/pom-pom)** – A web app designed to enhance focus and productivity through a technique that breaks work into timed intervals with short breaks in between, known as the pomodoro method.
 
