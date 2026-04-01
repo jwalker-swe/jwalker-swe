@@ -1,8 +1,10 @@
 # Hi, I’m Jordan
 
-A Software Engineer passionate about building impactful applications. I specialize in full-stack development with React, Node.js, and TypeScript, creating tools that solve real problems and improve user experiences.
+A creative technologist working at the intersection of visual effects and software engineering. With years of experience as an FX Artist and Technical Director on major films and TV shows, I bring a rare combination of artistic vision and technical depth to everything I build.
 
-Before coding, I worked in visual effects on major films and TV shows, which taught me the value of creativity and attention to detail. Now, I channel that same passion into software development.
+On the VFX side, I specialize in fx simulation, effects pipelines, and the kind of obsessive attention to detail. On the engineering side, I focus on full-stack development with React, Node.js, and TypeScript — building tools that are as thoughtful as they are functional.
+
+Both disciplines share the same north star: solving hard problems beautifully.
 
 ## Current Projects & Learning
 
