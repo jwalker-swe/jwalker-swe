@@ -1,9 +1,9 @@
 # Hi, I'm Jordan!
 
 ## About
-Hi, I'm Jordan! I'm a Software Engineer who discovered their love for programming during a 7+ year long career as a FX Artist/TD in the film and Television industry. During that time I primarily built small procedural programs and internal tools to help me and other artists setup, run, and art-direct a variety of physically based simulations, ranging from fluids, RBDs(rigid body dynamics), particle simulations, and more. 
+I discovered the love for programming during a 7+ year long career as a FX Artist/TD in the film and Television industry. During that time I primarily built small procedural programs and internal tools to help me and other artists setup, run, and art-direct a variety of physically based simulations, ranging from fluids, RBDs(rigid body dynamics), particle simulations, and more. 
 
-What started as a way to solve production problems and automate repetitive workflows quickly grew into a passion for software development itself. I found that I enjoyed designing robust tools and systems just as much as creating visual effects, which ultimately led me to transition into software engineering full-time. Today, I bring a unique combination of technical problem-solving, creative thinking, and production experience to building scalable, user-focused software.
+Here I just build whatever I think is interesting.
 
 ## Tech Stack:
 
